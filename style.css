@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+body {
+    height: 3240px;
+    width: 1920px;
+    background-color: black;
+}
+/* First section  -  main page--------------------------------------- */
+
+.main-page {
+width: 1920px; height: 1080px;
+padding: 0;
+margin: 0;
+position: relative;
+}
+/* header */
+.text-box1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    font-size:25px;
+    display: inline;
+    
+    
+}
+#pic1 {
+    background-color: none;
+    display: inline;
+}
+.text-box1 ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+margin-left: 620px;
+margin-top: -140px;
+
+}
+.text-box1 ul li {
+    float: left;
+    padding: 16px;
+    margin-left: 20px;
+    
+}
+/* Main */
+
+/* box2 */
+.text-box2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    font-size:30px;
+    display: inline;
+    margin-left: 850px;
+    margin-top:150px;
+    line-height: 1.1em;
+    
+    
+/* box3 */
+
+}
+.text-box3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    
+    display: inline;
+    margin-top: 700px;
+    margin-left: 400px;
+}
+.text-box3 ul {
+position: relative;
+    top: 0;
+    left: 0;
+    color: white;
+    font-size:30px;
+    list-style-type: none;
+
+}
+.text-box3 ul li {
+    float: left;
+    padding-left:100px;
+    margin-left: 20px;
+    
+}
+.text-box3 ul li button {
+color: black;
+padding: 16px;
+width: 250px;
+font-size: 14px;
+height: 55px;
+border-radius: 10px;
+}
+
+/* box4 */
+
+.text-box4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    
+    display: inline;
+    margin-top: 750px;
+    margin-left: 400px;
+    
+}
+.text-box4 ul {
+position: relative;
+    top: 0;
+    left: 0;
+    color: white;
+    font-size:20px;
+    list-style-type: none;
+
+}
+.text-box4 ul li {
+    float: left;
+    padding-left:70px;
+    margin-left: 20px;
+    
+}
+.text-box4 ul li#peak-power {
+    padding-left: 120px;
+}
+
+/* Footer */
+/* box5 */
+.text-box5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    
+    display: inline;
+    margin-top: 800px;
+    margin-left: 730px;
+    
+}
+.text-box5 a {
+    color: white;
+    text-decoration: none;
+    margin-left: 150px;
+}
+.text-box5 p#text-box5-p {
+    margin-left: 100px;
+}
+/* Second page --------------------------------------------------------- */
+
+.second-page {
+padding: 0;
+margin-top: 100px;
+position: relative;
+}
+img .pic2 {
+width: 1920;
+height: 1080;
+
+}
+.second-text {
+    position: absolute;
+    top: 80px;
+    left: 750px;
+    font-size: 30px;
+    color: white;
+}
+/* Third page -------------------------------------------------------------- */ 
+
+.third-section {
+    width: 1920px;
+    height: 1080px;
+    position: relative;
+    overflow: hidden;
+}
+.vid3 {
+    width: 1400px;
+    height: 900px;
+    margin-left: 250px;
+    position: relative;
+}
+.section3 {
+    line-height: 1.2em;
+    position: absolute;
+    color: white;
+    left: 400px;
+    font-size: 20px;
+}
