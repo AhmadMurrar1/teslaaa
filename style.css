@@ -166,11 +166,12 @@ height: 1080;
 
 }
 .second-text {
-    position: absolute;
-    top: 80px;
+    position: block;
+    top: 50px;
     left: 750px;
     font-size: 30px;
     color: white;
+    text-align: center;
 }
 /* Third page -------------------------------------------------------------- */ 
 
