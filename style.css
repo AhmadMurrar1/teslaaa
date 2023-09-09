@@ -11,7 +11,10 @@ body {
     background-color: black;
 }
 /* First section  -  main page--------------------------------------- */
-
+a {
+    text-decoration: none;
+    color: black;
+}
 .main-page {
 width: 1920px; height: 1080px;
 padding: 0;
@@ -152,6 +155,20 @@ position: relative;
 }
 .text-box5 p#text-box5-p {
     margin-left: 100px;
+}
+/* box11 */
+.text-box11 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    font-size: 25px;
+    left: 1740px;
+    top: 30px;
+    padding-left: 30px;
+}
+.text-box11 a{
+    padding-left: 10px;
 }
 /* Second page --------------------------------------------------------- */
 
