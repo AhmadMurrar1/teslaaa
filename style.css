@@ -134,7 +134,20 @@ position: relative;
 .text-box4 ul li#peak-power {
     padding-left: 120px;
 }
+.text-box4 ul li a {
+    font-size: 30px;
+    padding: 20px;
+    margin-left: 450px;
+    position: fixed;
+    z-index: 4;
+    background-color: #333;
+    top: 800px;
+    
+}
 
+.text-box4 ul li a:hover {
+background-color: rgb(143, 140, 140);
+}
 /* Footer */
 /* box5 */
 .text-box5 {
